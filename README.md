@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Keerthana 👋
 
-<!--
-**keerthi-raj08/keerthi-raj08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Automation Engineer  
+💻 Skilled in Java, Selenium, API Testing  
+🧠 Currently learning Generative AI + QA Automation  
+📍 Open to remote opportunities  
+🌱 Passionate about building clean, testable, and scalable solutions  
+📫 Reach me at: [keethiravi8@gmail.com] |
+- **Testing Tools**: Selenium, TestNG, RestAssured, Postman
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions (learning)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
